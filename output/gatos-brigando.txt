@@ -1,0 +1,17 @@
+Resultado obtido pela análise realizada pela IA da Azure
+Imagem: gatos-brigando.png
+
+{
+  "apim-request-id": "ae64383d-804c-4f2d-89f5-15c5d3197956",
+  "content-length": "163",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "two cats fighting with their paws up",
+    "confidence": 0.7323607206344604
+  },
+  "metadata": {
+    "width": 967,
+    "height": 597
+  }
+}
