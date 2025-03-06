@@ -1,0 +1,17 @@
+Resultado da análise da imagem, pela IA da Azure
+Imagem: pai-e-filho-pescando.png
+
+{
+  "apim-request-id": "d9a41d0c-b507-4072-a521-79f8106fef13",
+  "content-length": "159",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a man and boy fishing on a beach",
+    "confidence": 0.8103668093681335
+  },
+  "metadata": {
+    "width": 590,
+    "height": 391
+  }
+}
